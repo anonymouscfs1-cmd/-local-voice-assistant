@@ -1,4 +1,6 @@
 venv/
 data/*.wav
+data/history.json
+data/dictionary.json
 __pycache__/
 *.pyc
